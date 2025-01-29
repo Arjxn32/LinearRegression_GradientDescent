@@ -1,5 +1,5 @@
 # LinearRegression_GradientDescent
-This project implements linear regression by using a method called the 'Gradient Descent' to establish a relationship between student test scores and the amount of hours studied.
+This project implements linear regression and uses an optimization technique called the 'Gradient Descent' to establish a relationship between student test scores and the amount of hours studied.
 
 ## Linear Regression
 Linear Regression is a supervised learning algorithm used for predicting continuous values. 
